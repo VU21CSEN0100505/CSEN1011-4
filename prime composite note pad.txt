@@ -1,0 +1,13 @@
+Algorithm to find whether a number is Composite or Prime
+
+Step 1: Start.
+Step 2: Accept a Positive Integer 'n' greater than 2 
+Step 3: Intialize counter variable "i" with value 2.
+Step 4: Divide the number 'n' with counter variable "i".
+Step 5: If the remainder is zero ,display that the positive number is Composite.
+Step 6: If the remainder is not zero ,else increment for i will be countered and repeat from Step 4 ,untill the counter variable value is 1 less the number accepted - (n -1).
+Step 7: After completion of all the steps display that number 'n' is Prime.
+Step 8: Stop.
+
+
+
