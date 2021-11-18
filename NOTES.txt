@@ -1,0 +1,6 @@
+ 18-November-2021
+ 
+ Basics:
+         GCC - GNU C Complier
+         To execute a program = ./a.out
+          
