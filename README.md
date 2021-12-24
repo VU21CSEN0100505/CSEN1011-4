@@ -27,3 +27,10 @@ CSEN1011
 [12 - Pascal's Triangle.c](Pascal's-Triangle.c)
 
 [13 - Full Pyramid of STAR.c](Full-Pyramid-of-star.c)
+
+
+update prfile 
+write 8 ograms 
+update github programs and notes
+use binary search to learn on own
+coursera program
