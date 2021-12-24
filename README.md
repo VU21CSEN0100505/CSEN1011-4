@@ -16,12 +16,16 @@ CSEN1011
 
 [07 - Net Salary.c](Salary.c)
 
-[08 - Pyramid Numbers.c](Pyramid-Numbers.c)
+[08 - Half Pyramid Numbers.c](Pyramid-Numbers.c)
 
-[09 - Pyramid Alphabets.c](Pyramid-alphabets.c)
+[09 - Half Pyramid Alphabets.c](Pyramid-alphabets.c)
 
-[10 - Pyramid Stars.c](Pyramid-stars.c)
+[10 - Half Pyramid Stars.c](Pyramid-stars.c)
 
 [11 - Reverse Number.c](Reverse.c)
 
 [12 - Palindrome.c](palindrome.c)
+
+[13 - Pascal's Triangle.c](Pascal's-Triangle.c)
+
+[14 - Full Pyramid of STAR.c](Full-Pyramid-of-star.c)
