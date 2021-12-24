@@ -6,26 +6,24 @@ CSEN1011
 
 [02 - Simple Interest and Compound Inerest.c](Si-and-CI-new.c)
  
-[03 - Marks.c](student-marks.c)
- 
-[04 - Remainder.c](Remainder.c)
+[03 - Remainder.c](Remainder.c)
 
-[05 - Temperature Converter.c](Converter.c)
+[04 - Temperature Converter.c](Converter.c)
 
-[06 - Arm Strong Number.c](Arm-Strong.c)
+[05 - Arm Strong Number.c](Arm-Strong.c)
 
-[07 - Net Salary.c](Salary.c)
+[06 - Net Salary.c](Salary.c)
 
-[08 - Half Pyramid Numbers.c](Pyramid-Numbers.c)
+[07 - Half Pyramid Numbers.c](Pyramid-Numbers.c)
 
-[09 - Half Pyramid Alphabets.c](Pyramid-alphabets.c)
+[08 - Half Pyramid Alphabets.c](Pyramid-alphabets.c)
 
-[10 - Half Pyramid Stars.c](Pyramid-stars.c)
+[09 - Half Pyramid Stars.c](Pyramid-stars.c)
 
-[11 - Reverse Number.c](Reverse.c)
+[10 - Reverse Number.c](Reverse.c)
 
-[12 - Palindrome.c](palindrome.c)
+[11 - Palindrome.c](palindrome.c)
 
-[13 - Pascal's Triangle.c](Pascal's-Triangle.c)
+[12 - Pascal's Triangle.c](Pascal's-Triangle.c)
 
-[14 - Full Pyramid of STAR.c](Full-Pyramid-of-star.c)
+[13 - Full Pyramid of STAR.c](Full-Pyramid-of-star.c)
