@@ -29,3 +29,5 @@ CSEN1011
 [13 - Full Pyramid of STAR.c](Full-Pyramid-of-star.c)
 
 [14 - Swapping Numbers using FUNCTIONS.c](Swap-functions.c)
+
+[15 - Perfect Number using FUNCTIONS.c](Perfect-number.c)
